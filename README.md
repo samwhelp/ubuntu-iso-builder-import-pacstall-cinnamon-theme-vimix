@@ -7,13 +7,13 @@
 
 ## Home
 
+> [ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix/)
+
 | Link | GitHub |
 | ---- | ------ |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix) |
-| `=` |
-| [ubuntu-iso-builder-include-pacstall-cinnamon-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-cinnamon-theme-vimix) |
 
 
 
@@ -132,3 +132,4 @@ make build
 | [Ubuntu / Cinnamon / Note](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
 | [Ubuntu / Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Ubuntu / Note](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Ubuntu / ISO Builder / Template / Cinnamon](https://samwhelp.github.io/ubuntu-iso-builder-template/read/respin/cinnamon.html) |  |
