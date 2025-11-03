@@ -2,7 +2,7 @@
 
 # Home
 
-> [ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix/)
+> [ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-cinnamon-theme-vimix)
 
 | Project |
 | ------- |
